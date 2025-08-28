@@ -1,70 +1,193 @@
-# Getting Started with Create React App
+# Full Stack Web Development Internship Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Company:** CodTech IT Solutions  
+**Duration:** 2nd June 2025 – 30th June 2025  
+**Domain:** Full Stack Web Development
 
-## Available Scripts
+## 📌 Introduction
 
-In the project directory, you can run:
+This repository contains all the tasks, projects, and documentation completed during my internship at **CodTech IT Solutions**.
 
-### `npm start`
+The internship focused on frontend and backend development using React.js, Node.js, Express.js, MongoDB, and third-party APIs like CoinGecko. It provided hands-on experience in building real-world web applications, working with real-time data, and designing full-stack systems.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📅 Daily Task Log
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🗓 Week 1 (2nd – 8th June 2025)
 
-### `npm test`
+| Day | Date | Task/Module |
+|-----|------|-------------|
+| Day 1 | 2nd June | Internship orientation, environment setup, GitHub workflow. |
+| Day 2 | 3rd June | Started Crypto Price Tracker – designed webpage layout using HTML & CSS. |
+| Day 3 | 4th June | Integrated CoinGecko API with Axios, fetched and displayed live crypto data. |
+| Day 4 | 5th June | Added responsive design with Bootstrap and error handling for invalid inputs. |
+| Day 5 | 6th June | Completed testing & deployed the Crypto Price Tracker on GitHub Pages. |
+| Day 6–7 | 7th–8th June | Documentation & debugging. |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🗓 Week 2 (9th – 15th June 2025)
 
-### `npm run build`
+| Day | Date | Task/Module |
+|-----|------|-------------|
+| Day 8 | 9th June | Setup Node.js & Express.js backend for Real-Time Chat App. |
+| Day 9 | 10th June | Integrated Socket.IO for real-time messaging. |
+| Day 10 | 11th June | Designed chat UI using React.js. |
+| Day 11 | 12th June | Added multiple room functionality. |
+| Day 12 | 13th June | Implemented user connection/disconnection events. |
+| Day 13–14 | 14th–15th June | Tested & deployed Chat App. |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🗓 Week 3 (16th – 22nd June 2025)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Day | Date | Task/Module |
+|-----|------|-------------|
+| Day 15 | 16th June | Started Collaborative Document Editor. |
+| Day 16 | 17th June | Integrated Socket.IO for real-time editing sync. |
+| Day 17 | 18th June | Developed text editor UI with rich formatting tools. |
+| Day 18 | 19th June | Added multi-user support & session persistence. |
+| Day 19 | 20th June | Optimized backend for performance. |
+| Day 20–21 | 21st–22nd June | Testing & bug fixes. |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🗓 Week 4 (23rd – 30th June 2025)
 
-### `npm run eject`
+| Day | Date | Task/Module |
+|-----|------|-------------|
+| Day 22 | 23rd June | Started Blog Management System (CRUD operations). |
+| Day 23 | 24th June | Built REST APIs with Express.js & MongoDB. |
+| Day 24 | 25th June | Integrated frontend with React.js. |
+| Day 25 | 26th June | Added authentication & role-based access. |
+| Day 26 | 27th June | Worked on post categorization & search functionality. |
+| Day 27–28 | 28th–29th June | Final testing and deployment. |
+| Day 29–30 | 30th June | Prepared documentation & internship report. |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Projects
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Project 1: Crypto Price Tracker (CoinGecko API)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Abstract:**  
+A web application that fetches and displays real-time cryptocurrency prices using the CoinGecko API. Users can search for coins, view live prices, and track market data.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Keywords:** Crypto Tracker, CoinGecko API, Axios, Bootstrap, Responsive Web Design  
+**Technology:** HTML, CSS, JavaScript, Axios, CoinGecko API
 
-## Learn More
+### Project 2: Real-Time Chat Application
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Abstract:**  
+A real-time chat application that enables instant communication between users in multiple rooms using Socket.IO.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Keywords:** WebSockets, Socket.IO, Real-Time Messaging, Node.js  
+**Technology:** Node.js, Express.js, Socket.IO, React.js
 
-### Code Splitting
+### Project 3: Collaborative Document Editor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Abstract:**  
+A Google Docs–like web app where multiple users can collaboratively edit documents in real time with live synchronization.
 
-### Analyzing the Bundle Size
+**Keywords:** Real-Time Collaboration, Socket.IO, Shared Editing, Rich Text Editor  
+**Technology:** React.js, Node.js, Express.js, Socket.IO
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Project 4: Blog Management System
 
-### Making a Progressive Web App
+**Abstract:**  
+A full-stack blog management platform that supports creating, editing, deleting, and managing blog posts with user authentication and database integration.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Keywords:** CRUD Operations, Blog CMS, Authentication, MERN Stack  
+**Technology:** React.js, Node.js, Express.js, MongoDB
 
-### Advanced Configuration
+## 📊 Project Work Timeline
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Week 1:** Crypto Price Tracker using CoinGecko API
+- **Week 2:** Real-Time Chat App with Socket.IO
+- **Week 3:** Collaborative Document Editor
+- **Week 4:** Blog Management System
 
-### Deployment
+## 🛠 Technology Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Frontend Technologies
+- **React.js** - Modern JavaScript library for building user interfaces
+- **HTML5 & CSS3** - Semantic markup and modern styling
+- **JavaScript (ES6+)** - Advanced JavaScript features and syntax
+- **Bootstrap** - Responsive CSS framework
+- **Axios** - HTTP client for API requests
 
-### `npm run build` fails to minify
+### Backend Technologies
+- **Node.js** - JavaScript runtime environment
+- **Express.js** - Web application framework
+- **Socket.IO** - Real-time bidirectional communication
+- **MongoDB** - NoSQL database
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### APIs & External Services
+- **CoinGecko API** - Cryptocurrency data
+- **GitHub Pages** - Static site hosting
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+- Modern web browser
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone [your-repository-url]
+   cd react-portfolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Start the chat server (in a separate terminal)**
+   ```bash
+   npm run server
+   ```
+
+5. **Open your browser**
+   - Main App: `http://localhost:3000`
+   - Chat Server: `http://localhost:3001`
+
+## 📱 Project URLs
+
+- **Dashboard:** `http://localhost:3000/`
+- **CryptoPulse:** `http://localhost:3000/crypto`
+- **Real-Time Chat:** `http://localhost:3000/chat`
+- **Document Editor:** `http://localhost:3000/editor`
+- **Blog System:** `http://localhost:3000/blog`
+
+## ✅ Conclusion
+
+During this internship, I gained practical experience in:
+
+- Building responsive UIs with React.js and Bootstrap
+- Developing backend services using Node.js & Express.js
+- Working with real-time data using Socket.IO
+- Integrating third-party APIs like CoinGecko
+- Designing database schemas with MongoDB
+- Implementing full-stack applications and deploying them
+
+This internship strengthened my full-stack development skills and prepared me for industry-level projects.
+
+## 📚 References & Resources
+
+### Documentation
+- [React Documentation](https://reactjs.org/docs/)
+- [Node.js Documentation](https://nodejs.org/docs/)
+- [Socket.IO Documentation](https://socket.io/docs/)
+- [Express.js Documentation](https://expressjs.com/)
+- [MongoDB Documentation](https://docs.mongodb.com/)
+
+### APIs Used
+- [CoinGecko API](https://www.coingecko.com/en/api) - Cryptocurrency data
+
+---
+
+**Internship Duration:** 2nd June 2025 – 30th June 2025  
+**Company:** CodTech IT Solutions  
+**Total Projects:** 4 Major Applications  
+**Technologies Mastered:** React.js, Node.js, Express.js, MongoDB, Socket.IO, APIs  
+**Status:** ✅ Completed Successfully
